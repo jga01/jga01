@@ -67,3 +67,4 @@ I'm a backend engineer based in Brazil, focused on building scalable distributed
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
