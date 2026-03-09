@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey%2C+I'm+Tiago+%F0%9F%91%8B;Backend+Engineer+%C2%B7+Python+%C2%B7+.NET+%C2%B7+Cloud;Building+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey%2C+I'm+Tiago+%F0%9F%91%8B;Fullstack+Engineer+%C2%B7+.NET+%C2%B7+React+%C2%B7+Python+%C2%B7+AI;Building+AI-powered+enterprise+platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,16 +10,16 @@
 
 ### About Me
 
-I'm a backend engineer based in Brazil, focused on building scalable distributed systems, APIs, and cloud infrastructure. I'm passionate about clean architecture, DevOps practices, and exploring AI/ML tooling to solve real-world problems.
+Fullstack Engineer based in Brazil, building AI-powered enterprise SaaS platforms. I work end-to-end — from .NET APIs (CQRS, Clean Architecture) and React/Next.js frontends to Python-based AI agent orchestration (LangGraph, OpenAI, Claude). Passionate about clean architecture, DevOps practices, and multi-agent systems.
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,typescript,javascript&theme=dark" alt="Core" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,typescript,python&theme=dark" alt="Core" />
   <br />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,postgresql,redis,git,githubactions&theme=dark" alt="Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,terraform,postgresql,redis,git,githubactions,linux&theme=dark" alt="Infrastructure" />
 </p>
 
 ---
@@ -36,14 +36,6 @@ I'm a backend engineer based in Brazil, focused on building scalable distributed
 
 ---
 
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jga01&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
 ### Top Languages
 
 <p align="center">
@@ -52,19 +44,10 @@ I'm a backend engineer based in Brazil, focused on building scalable distributed
 
 ---
 
-### Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jga01/jga01/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jga01/">
+  <a href="https://linkedin.com/in/tiagogoossen">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
